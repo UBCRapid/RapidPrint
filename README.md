@@ -11,8 +11,7 @@ RapidPrint is being developped by [UBC Rapid](http://www.ubc-rapid.com/).
 Reporting bugs
 --------------
 
-OctoPrint's issue tracker can be found [on Github](https://github.com/foosel/OctoPrint/issues). **Before opening a new
-ticket please take a look at [this guide on how to file a bug report with OctoPrint](https://github.com/foosel/OctoPrint/wiki/How-to-file-a-bug-report).**
+OctoPrint's issue tracker can be found [on Github](https://github.com/UBCRapid/RapidPrint/issues).
 
 Sending pull requests for non UBC Rapid contributors
 ----------------------------------------------------
